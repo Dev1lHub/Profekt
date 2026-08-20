@@ -919,7 +919,7 @@ local gameScripts = {
         Desc = "a script made for twdo3",
         IconId = 87599473539232,
         Callback = function()
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/PyroX5343/RobloxCheats/refs/heads/main/Games/TWDO3.lua"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev1lHub/Profekt/refs/heads/main/Github/Games/TWDO3.lua"))()
         end
     },
     
